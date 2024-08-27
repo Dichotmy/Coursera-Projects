@@ -11,7 +11,7 @@ The objective of this capstone project was to solve a real-world data problem us
 ### **Dataset**
 
 - **Source:** The dataset is a sample of Space X Falcon 9 launches from 2010 to 2020 extracted from the Space X API 'https://api.spacexdata.com'.
-- **Content:** The dataset contains various attributes includeing, launch locations, booster versions, timestamps, and achieved orbits.
+- **Content:** The dataset contains various attributes including, launch locations, booster versions, timestamps, and achieved orbits.
 
 ### **Approach**
 
