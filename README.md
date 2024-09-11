@@ -26,4 +26,4 @@ Throughout these projects, I have demonstrated proficiency in:
 Feel free to browse through the projects to see the code and analysis. You can clone the repository to your local machine if you’d like to explore the code in more detail.
 
 ```bash
-git clone https://github.com/YourUsername/Coursera-Projects.git
+git clone https://github.com/Dichotmy/Coursera-Projects.git
