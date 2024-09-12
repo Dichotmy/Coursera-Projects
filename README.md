@@ -1,6 +1,6 @@
 # Coursera Projects
 
-Welcome to the Coursera Projects repository! This repository contains the projects I have completed as part of my journey through various Coursera courses. These projects showcase my skills in data science, data analysis, and Python programming, and demonstrate my ability to apply these skills to real-world datasets and problems.
+Welcome to the Coursera Projects repository! This repository contains the projects I have completed as part of my journey through various Coursera courses. These projects showcase my skills in data science, data analysis, SQL, and Python programming, demonstrating my ability to apply these skills to real-world datasets and problems.
 
 ## Repository Structure
 
@@ -8,6 +8,7 @@ This repository is organized into folders, each representing a different project
 
 - **IBM Data Science Capstone:** The final capstone project for the IBM Data Science Professional Certificate, where I applied the skills and knowledge acquired throughout the course to model and predict Space X rocket landings.
 - **Exploratory Data Analysis (EDA) on Retail Data:** A guided project focused on exploring and analyzing a retail dataset to uncover insights and patterns using Python.
+- **Analyzing Data in a Model Car Database with MySQL Workbench:** A comprehensive SQL-based analysis of a classic model car database, focused on inventory management, customer behavior, and sales performance for the Mint Classics Company.
 
 Each project folder contains its own README with detailed information about the project, including the problem statement, approach, results, and key takeaways.
 
@@ -16,6 +17,7 @@ Each project folder contains its own README with detailed information about the 
 Throughout these projects, I have demonstrated proficiency in:
 
 - **Python Programming:** Utilizing libraries like Pandas, Numpy, Matplotlib, Seaborn, and more.
+- **SQL Queries and Analysis:** Writing complex SQL queries to extract insights from relational databases.
 - **Data Cleaning:** Handling missing values, dealing with inconsistent data, and preparing datasets for analysis.
 - **Data Analysis:** Performing exploratory data analysis (EDA) to uncover insights and patterns.
 - **Data Visualization:** Creating visualizations to communicate findings effectively.
