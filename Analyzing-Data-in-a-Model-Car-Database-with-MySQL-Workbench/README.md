@@ -44,13 +44,11 @@ This folder contains SQL scripts that create views combining data from multiple 
 - **employees_cluster_view.sql**: SQL script creating a view that analyzes employee roles, office locations, and customer management.
 - **products_cluster_view.sql**: SQL script creating a view that combines data from products, warehouses, and order details.
 
-### **3. database**
-This folder contains the database creation and model files:
-- **mintclassicsDB.sql**: The SQL script that creates and populates the Mint Classics database, including all 9 tables.
-- **mintclassicsmodel.mwb**: A MySQL Workbench model file, which includes the database schema and an Extended Entity Relationship (EER) diagram.
+### **3. Analyzing Data in a Model Car Database with MySQL Workbench.docx**
+This is the comprehensive report that summarizes the findings from the analysis, including recommendations for warehouse closure, inventory management, and customer retention.
 
-### **4. Analyzing Data in a Model Car Database with MySQL Workbench.docx**
-This is the comprehensive report that summarizes the findings from the analysis, including recommendations for warehouse closure, inventory management, and customer retention. (Note: For some reason, this file may not display properly in the repository.)
+### **4. mintclassicsmodel.mwb**
+A MySQL Workbench model file, which includes the database schema and an Extended Entity Relationship (EER) diagram.
 
 ### **5. README.md**
 This file provides an overview of the project, the dataset, and the included files.
