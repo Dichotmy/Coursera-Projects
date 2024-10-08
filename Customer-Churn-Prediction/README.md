@@ -1,5 +1,4 @@
 
-```markdown
 # Customer Churn Prediction
 
 ## Project Overview
